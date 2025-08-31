@@ -7,6 +7,7 @@ Goals📋
 -to learn every  programing language
 
 Skills🤹‍♀️
+
 Programming  Language: Javascript
 
 Beginner in Python,SQL,Flask etc.
@@ -14,9 +15,11 @@ Beginner in Python,SQL,Flask etc.
 Soft Skills: Continious Learning
 
 Weakness😫
+
 -Bit of a slow learner but willing to learn
 
 Current Projects
+
 -Learning GitHub and  Git for  version  control
 
 -Developing practice  projects in  Python and Flutter
@@ -24,4 +27,4 @@ Current Projects
 -Create smmall  apps as portfolio projects
 
 
-
+Email: yannicahdelacruz1@gmail.com
