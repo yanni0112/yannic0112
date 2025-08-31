@@ -1,4 +1,4 @@
- Hi there, I am Yannicah S. De  lla Cruz👋
+ Hi there, I am Yannicah S. De  la Cruz👋
 
 About me: I  am BS IT student at  Laguna State Polytechnic University LSPUSCC, I am eager  to learn  more  knowledgable skills about software  development and other innovation technologies that were going to tackle.
 
