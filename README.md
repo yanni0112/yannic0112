@@ -1,16 +1,22 @@
-## Hi there 👋
+ Hi there, I am Yannicah S. De  lla Cruz👋
 
-<!--
-**yannic0112/yannic0112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About me: I  am BS IT student at  Laguna State Polytechnic University LSPUSCC, I am eager  to learn  more  knowledgable skills about software  development and other innovation technologies that were going to tackle.
 
-Here are some ideas to get you started:
+Goals📋
+-to learn every  programing language
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills🤹‍♀️
+Programming  Language: Javascript
+Beginner in Python,SQL,Flask etc.
+Soft Skills: Continious Learning
+
+Weakness😫
+-Bit of a slow learner but willing to learn
+
+Current Projects
+-Learning GitHub and  Git for  version  control
+-Developing practice  projects in  Python and Flutter
+-Create smmall  apps as portfolio projects
+
+
+
